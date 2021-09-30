@@ -4,7 +4,7 @@
 
 ## ⚡ W3LC0M3 TO 艾Star-Ford艾 
 
-<p align="center"><img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="195px" src="https://avatars.githubusercontent.com/u/67552744?v=4" /></p>
+<p align="center"><img alt="https://ucarecdn.com/e0a5b7b8-33ad-4304-9c1c-0253f97bf48c/" width="195px" src="https://ucarecdn.com/e0a5b7b8-33ad-4304-9c1c-0253f97bf48c/" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Star-Ford&label=Profile%20views&style=flat" alt="Star-Ford" /> </p>
 
