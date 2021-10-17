@@ -16,16 +16,9 @@
 
 ## Hey I'm 3rr0r-404  👋
 
+#### $~ Language & Scripts 
 
-- 💌 Pure Love For **PYTHON && BASH**
-
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/3rr0r-4O4](https://github.com/3rr0r-4O4)
-
-- 💬 i only talk if its about **Hacking, Progamming, Gaming**
-
-- 
-
-- ⚡ Guess? i am **noob** :D
-
+- Bash 
+- Python3
+- Php
+*
