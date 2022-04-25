@@ -1,26 +1,13 @@
-<p align="center">
-<!--  <img alt="https://ucarecdn.com/e0a5b7b8-33ad-4304-9c1c-0253f97bf48c/" width="195px" src="    priflr pic   " /> -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Star-Ford&hide=ruby,perl&hide_border=true" /> -->
 
-## ⚡ W3LC0M3 TO 3rr0r's World !
+```yaml
+-Details:
+      -Name: Joy Ghosh
+      -Located_in: Dhaka,Narayongonj,Bangladesh
+      -Job: Developer&Security Researcher
+      -Company: System00 Security Banladesh
+-
 
-<p align="center"><img alt="https://cdn.dribbble.com/users/31818/screenshots/2619658/dribbb.gif" width="395px" src="https://cdn.dribbble.com/users/31818/screenshots/2619658/dribbb.gif" /></p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Star-Ford&label=Profile%20views&style=flat" alt="Star-Ford" /> </p>
-
-
-## Hey I'm 3rr0r-404  👋
-### $~ whoami
-#### Hello There i am Ariful Islam Robin :sunglasses:, I am XX years old , I'm a Travel lover , I love breaking things and i also love creating new things , i am an independed security researcher/programmer !.
-
-### $~ Language & Scripts Learns By Me:
-
-- Bash 
-- Python3
-- Php
-
+```
 
 
 <p>
