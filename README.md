@@ -3,7 +3,7 @@
 -Details:
       -Name: Ariful Islam Robin
       -Located_in: Dhaka,Bangladesh
-      -Job: Security Researcher
+      -Job: Security Researcher,bug hunter
       -Company: Nothing-404
       Languages:  php,python,bash
 -
