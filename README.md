@@ -23,7 +23,7 @@
 
 
 
-<p align="center">
+<p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-4O4&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rr0r-4O4&theme=gotham&langs_count=6&layout=compact" /></a>
  </p>
 
