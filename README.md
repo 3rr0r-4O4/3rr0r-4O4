@@ -1,5 +1,5 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5598065.gif" width="576" height="160" alt="Robin Trigon" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4094826066">Create An Image Just Like This</a>
+
 
 ```yaml
 -Details:
