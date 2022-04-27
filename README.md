@@ -21,4 +21,6 @@
 ```
 <p align="center"> <img src="https://profile-counter.glitch.me/machine1337/count.svg" alt="Star-Ford" /> </p>
 
-<p align="center"><img alt="https://cdn.dribbble.com/users/31818/screenshots/2619658/dribbb.gif" width="395px" src="https://cdn.dribbble.com/users/31818/screenshots/2619658/dribbb.gif" /></p>
+<p align="center">
+<!--  <img alt="https://ucarecdn.com/e0a5b7b8-33ad-4304-9c1c-0253f97bf48c/" width="195px" src="    priflr pic   " /> -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Star-Ford&hide=ruby,perl&hide_border=true" /> -->
