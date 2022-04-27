@@ -21,4 +21,4 @@
 ```
 <p align="center"> <img src="https://profile-counter.glitch.me/machine1337/count.svg" alt="Star-Ford" /> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/machine1337/count.svg)
+<p align="center"><img alt="https://cdn.dribbble.com/users/31818/screenshots/2619658/dribbb.gif" width="395px" src="https://cdn.dribbble.com/users/31818/screenshots/2619658/dribbb.gif" /></p>
