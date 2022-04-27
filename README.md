@@ -7,7 +7,7 @@
       -Job: Security Researcher,bug hunter
       -Company: Nothing-404
       -Languages: php,python,bash
-      -Skill: Web Application Security
+      -Skill: Web Application Security , Black Arch , Debian , Ubuntu
       -Marital status: Single
       -Religion: Humanity
       -Known as: 3rr0r-404 | Robin Trigon
