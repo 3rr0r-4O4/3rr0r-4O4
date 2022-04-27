@@ -5,7 +5,7 @@
       -Located_in: Dhaka,Bangladesh
       -Job: Security Researcher,bug hunter
       -Company: Nothing-404
-      -Languages:  php,python,bash
+      -Languages: php,python,bash
 -
 
 ```
