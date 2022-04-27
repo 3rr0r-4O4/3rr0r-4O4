@@ -19,6 +19,6 @@
 -
 
 ```
-<p align="left"> <img src="https://profile-counter.glitch.me/machine1337/count.svg" alt="Star-Ford" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/machine1337/count.svg" alt="Star-Ford" /> </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/machine1337/count.svg)
