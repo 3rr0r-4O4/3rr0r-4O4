@@ -20,4 +20,4 @@
 
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/swisskyrepo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/machine1337/count.svg)
