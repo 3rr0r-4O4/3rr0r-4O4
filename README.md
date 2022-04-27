@@ -21,12 +21,5 @@
 ```
 <p align="center"> <img src="https://profile-counter.glitch.me/machine1337/count.svg" alt="Star-Ford" /> </p>
 
-<p align="center">
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Star-Ford&hide=ruby,perl&hide_border=true" /> -->
 <p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RobinTrigon&hide=ruby,perl&hide_border=false" /> </p>
-Most Used Language:
-
-        python --> 66%
-        
-        bash --> 34%
 
