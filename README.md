@@ -11,7 +11,7 @@
       -Marital status: Single
       -Religion: Humanity
       -Known as: 3rr0r-404 | Robin Trigon
-      -Hobby: enthusiast to break security | Travel
+      -Hobby: Enthusiast to break security , Travel , Hiking
 -
 
 ```
