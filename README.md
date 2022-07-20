@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5598067.png" width="688" height="170" alt="Robin Trigon" /></a>
+#<a href="https://cooltext.com"><img src="https://images.cooltext.com/5598067.png" width="688" height="170" alt="Robin Trigon" /></a>
 
 ```yaml
 -Details 
@@ -19,7 +19,3 @@
 -
 
 ```
-<p align="center"> <img src="https://profile-counter.glitch.me/machine1337/count.svg" alt="Star-Ford" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RobinTrigon&hide=ruby,perl&hide_border=false" /> </p>
-
