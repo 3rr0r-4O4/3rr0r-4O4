@@ -19,4 +19,3 @@
 -
 
 ```
-https://github-readme-stats.vercel.app/api/top-langs/?username=RobinTrigon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&fbclid=IwAR3D0yO_zW112kd1Ll-UtHJCccLPTbjrqinSfxcq4ZfF5cjOlVegqRniP_8#%3Cimg%20src=x%20onerror=alert()%3E
