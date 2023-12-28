@@ -10,7 +10,7 @@
       -Skill: Web Application Security , Black Arch , Debian , Ubuntu
       -Marital status: I'm Single coz nature chosen me.
       -Religion: Humanity
-      -Known as: 3rr0r-404 | Robin Trigon
+      -Known as: 3rr0r-404 | RobinTrigon
       -Hobby: Enthusiast to break security , Travel , Hiking , Cycling
       -Email: adilkhalifa2123@gmail.com
       -working project: IBI, WIFE ,ESSTI ,Deceptor
