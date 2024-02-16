@@ -84,7 +84,40 @@ Windowos                    26280 hrs 49 mins      █████████�
 </div>
 <!--tech stack icons-->
 <p align="center">
-<img src=https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/dgsrzgjf4paklpbom6uj>
+<img src=https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/dgsrzgjf4paklpbom6uj width="40" 
+height="40">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrz2Pku21o14-c9k379_0_-Sbwzah102YmIgriRNxAVUdUG7aSXHfysreQOTnVwsvy_k&usqp=CAU width="40" 
+height="40">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6lgkv5wZmrYJiznFh19mpNdYLbppcwmK3_tcfEXJrLdlVfPuZVk8mr5whQI1iyVAQ0k&usqp=CAU
+ width="40" 
+height="40">
+<img src=https://seeklogo.com/images/R/rockstar-games-logo-37BEDA8D5E-seeklogo.com.png
+ width="40" 
+height="40">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFBDsb_XVjSQItVHSlrGbdrUWGxOZdROI2Dla6IDGYgqbct6P6tbswvfj0RorZHKE3_Y&usqp=CAU
+ width="40" 
+height="40">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xaMdHeSeAHmDdehcHqS_m0YFz1zRzjfpIq-8gj7aJxUq-PHaesTvOGgsqGKv4ShnRqU&usqp=CAU
+ width="40" 
+height="40">
+<img src=https://logowik.com/content/uploads/images/kfc2930.jpg
+ width="40" 
+height="40">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPaqmXbJQA0vr_RKij6Ya1DA1rjmHGovrNmRWg-g0wdXUKvgU334MY3LwDcRqUUbGYAvY&usqp=CAU
+ width="40" 
+height="40">
+<img src=https://seeklogo.com/images/G/grab-logo-7020E74857-seeklogo.com.png
+ width="40" 
+height="40">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPaqmXbJQA0vr_RKij6Ya1DA1rjmHGovrNmRWg-g0wdXUKvgU334MY3LwDcRqUUbGYAvY&usqp=CAU
+ width="40" 
+height="40">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRdgSO5OF4VnZ92-RB5wO_AXTZAziNJvvtWonxbWQ5IVOG1tMeH1yGn745m0_TPmT-us&usqp=CAU
+ width="40" 
+height="40">
+<img src=https://download.logo.wine/logo/Nokia/Nokia-Logo.wine.png
+ width="40" 
+height="40">
 </p>
 
 <!--x axis divider-->
@@ -93,7 +126,7 @@ Windowos                    26280 hrs 49 mins      █████████�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=RobinTrigon&hide_border=true&type=png" alt="RobinTrigon" /></p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -102,23 +135,23 @@ Windowos                    26280 hrs 49 mins      █████████�
 
 <div>
   <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan.github.io&theme=transparent" alt="GitHub Stats" />
+	<a href="https://github.com/RobinTrigon/xxe-payloads">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinTrigon&repo=xxe-payloads&theme=transparent" alt="Language" />
     	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+	    <a href="https://github.com/RobinTrigon/scant3r">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinTrigon&repo=scant3r&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/RobinTrigon/the-book-of-secret-knowledge">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=trimstray&repo=the-book-of-secret-knowledge&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/RobinTrigon/red0">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinTrigon&repo=red0&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/vincentcox/bypass-firewalls-by-DNS-history">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=vincentcox&repo=bypass-firewalls-by-DNS-history&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/jevalenciap/iptodomain">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jevalenciap&repo=iptodomain&theme=transparent" alt="GitHub Stats" />
     	</a>
 </div>
 
@@ -129,23 +162,14 @@ Windowos                    26280 hrs 49 mins      █████████�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+[![image](https://icons.iconarchive.com/icons/danleech/simple/48/facebook-icon.png)](https://www.facebook.com/RobinTrigon)
+
   
 </div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
-
-<div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -156,7 +180,7 @@ Windowos                    26280 hrs 49 mins      █████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Made with ❤️ by <a href="https://fb.com/RobinTrigon" target="_blank">Aruu</a>
 </div>
 
 <!--x axis divider-->
