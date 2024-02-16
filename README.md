@@ -7,17 +7,24 @@
 </a>
 </picture>
 
-```js
-"use creativity";
-import { Person } from 'indonesia';
+```yaml
+-Details :
+      -Name: Ariful Islam Robin
+      -Located_in: Dhaka,Bangladesh
+      -Job: Security Researcher,bug hunter
+      -Company: Fhixa
+      -Languages: php,python,bash
+      -Skill: Web Application Security , Black Arch , Debian , Ubuntu
+      -Marital status: I'm Single coz nature chosen me.
+      -Religion: Humanity
+      -Known as: 3rr0r-404 | RobinTrigon
+      -Hobby: Enthusiast to break security , Travel , Hiking , Cycling
+      -Email: adilkhalifa2123@gmail.com
+      -working project: IBI, WIFE ,ESSTI ,Deceptor
+      
+      
+-
 
-new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id/',
-    married: !!!true,
-}).sayHello();
 ```
 
 ```cmd
@@ -46,18 +53,18 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               48 hrs 13 mins      █████████████████████░░░░   84.73 % 
-JSON                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-PHP                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Prisma                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Bash                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+BashScript               48 hrs 13 mins      █████████████████████░░░░   84.73 % 
+Python                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JavaScript                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Perl                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+C                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  56 hrs 54 mins      █████████████████████████   100.00 % 
+VS Kate                  56 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  34 hrs 5 mins       ███████████████░░░░░░░░░░   59.90 % 
-Linux                    22 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.10 % 
+Linu                  52560 hrs 5 mins       ███████████████████░░░░░░░░   90.90 % 
+Windowos                    26280 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   9.10 % 
 ```
 
 
@@ -72,7 +79,7 @@ Linux                    22 hrs 49 mins      ██████████░�
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🔍Tech that's been explored🔎</h3></summary>
+    <summary><h3 style="display: inline-block">🔍Sites that's been Hacked🔎</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
