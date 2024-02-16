@@ -3,7 +3,7 @@
 
 <picture> 
 
-<img src="https://media1.tenor.com/m/ofYCY_OJQ1kAAAAd/hacker-hack.gif" align="right" width="450">
+<img src="https://media1.tenor.com/m/ofYCY_OJQ1kAAAAd/hacker-hack.gif" align="right" width="350">
 
 </picture>
 
