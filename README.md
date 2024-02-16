@@ -27,9 +27,9 @@
 
 ```
 
-```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```shell
+chat »» Who is RobinTrigon?
+A man who is unfamiliar to himself or just a revolving point which around the center. 
 ```
 
 <div align="center">
@@ -84,9 +84,7 @@ Windowos                    26280 hrs 49 mins      █████████�
 </div>
 <!--tech stack icons-->
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,php,py,ts,react,nextjs,vue,nuxt,tailwindcss,nodejs,express,laravel,mongodb,mysql,postgresql,sqlite,planetscale,docker,linux,git,github,vscode,figma,postman,electron,firebase,vercel,netlify,jest,jquery,vite,bootstrap,astro,sentry,cloudflare,arduino,redux,prisma,svelte&perline=11" />
-</a>
+<img src=https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/dgsrzgjf4paklpbom6uj>
 </p>
 
 <!--x axis divider-->
