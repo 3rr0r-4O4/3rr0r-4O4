@@ -9,18 +9,18 @@
 
 ```yaml
 -Details :
-      -Name: Ariful Islam Robin
-      -Located_in: Dhaka,Bangladesh
-      -Job: Security Researcher,bug hunter
-      -Company: Fhixa
-      -Languages: php,python,bash
-      -Skill: Web Application Security , Black Arch , Debian , Ubuntu
-      -Marital status: I'm Single coz nature chosen me.
-      -Religion: Humanity
-      -Known as: 3rr0r-404 | RobinTrigon
-      -Hobby: Enthusiast to break security , Travel , Hiking , Cycling
-      -Email: adilkhalifa2123@gmail.com
-      -working project: IBI, WIFE ,ESSTI ,Deceptor
+ -Name: Ariful Islam Robin
+ -Located_in: Dhaka,Bangladesh
+ -Job: Security Researcher,bug hunter
+ -Company: Fhixa
+ -Languages: php,python,bash
+ -Skill: Web Application Security , Black Arch , Debian , Ubuntu
+ -Marital status: I'm Single coz nature chosen me.
+ -Religion: Humanity
+ -Known as: 3rr0r-404 | RobinTrigon
+ -Hobby: Enthusiast to break security , Travel , Hiking , Cycling
+ -Email: arifulislamrobin2123@gmail.com
+ -working project: IBI, WIFE ,ESSTI ,Deceptor
       
       
 -
