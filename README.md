@@ -143,10 +143,7 @@ height="40">
     	</a>
     	<a href="https://github.com/RobinTrigon/the-book-of-secret-knowledge">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=trimstray&repo=the-book-of-secret-knowledge&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/RobinTrigon/red0">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinTrigon&repo=red0&theme=transparent" alt="GitHub Stats" />
-    	</a>
+
     	<a href="https://github.com/vincentcox/bypass-firewalls-by-DNS-history">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=vincentcox&repo=bypass-firewalls-by-DNS-history&theme=transparent" alt="GitHub Stats" />
     	</a>
