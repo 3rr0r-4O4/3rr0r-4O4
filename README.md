@@ -13,7 +13,7 @@
  -Located_in: Dhaka,Bangladesh
  -Job: Security Researcher,bug hunter
  -Company: Fhixa
- -Languages: php,python,bash
+ -Languages: python,bash,go,perl
  -Skill: Web Application Security , Black Arch , Debian , Ubuntu
  -Marital status: I'm Single coz nature chosen me.
  -Religion: Humanity
