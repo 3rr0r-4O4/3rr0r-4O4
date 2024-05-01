@@ -19,7 +19,7 @@
  -Religion: Humanity
  -Known as: 3rr0r-404 | RobinTrigon
  -Hobby: Enthusiast to break security , Travel , Hiking , Cycling
- -Email: arifulislamrobin2123@gmail.com
+ -Email: aruu@fhixa.com
  -working project:
                   -Yra
                   -WIFE 
