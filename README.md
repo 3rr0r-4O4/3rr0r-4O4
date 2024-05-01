@@ -1,33 +1,26 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<picture> 
-
-<img src="https://media1.tenor.com/m/ofYCY_OJQ1kAAAAd/hacker-hack.gif" align="right" width="350">
-
-</picture>
-
 ```yaml
--Details :
- -Name: Ariful Islam Robin
- -Located_in: Dhaka,Bangladesh
- -Job: Security Researcher,bug hunter
- -Company: Fhixa
- -Languages: python,bash,go,perl
- -Skill: Web Application Security , Black Arch , Debian , Ubuntu
- -Marital status: I'm Single coz nature chosen me.
- -Religion: Humanity
- -Known as: 3rr0r-404 | RobinTrigon
- -Hobby: Enthusiast to break security , Travel , Hiking , Cycling
- -Email: aruu@fhixa.com
- -working project:
-                  -Yra
-                  -WIFE 
-                  -scrper
-                  -Deceptor
-      
-      
--
+Details:
+  Location: "Dhaka, Bangladesh"
+  Job: "Chief Offender of Code: Security Researcher, Bug Hunter "
+  Company: "Fhixa - Reaching New Heights in Innovation"
+  Languages: "Python, Bash, Go, Perl"
+  Skills: "Learner of Offensive Tactics: Web Application Security, Network Security, Cryptography; Black Arch Enthusiast, Debian & Ubuntu Whisperer; Proficient in Penetration Testing and Vulnerability Assessment"
+  Marital Status: "Single, A Lone Wolf which Chosen by nature, Yet Connected to All"
+  Religion: "Devoted Follower of the Gospel of Humanity"
+  Known as: "The Offensive Overlord of Algorithms: 3rr0r-404 | RobinTrigon"
+  Hobbies: "Joyful Attacker: Delighting in Breaking the Unbreakable, Frolicking in Nature's Playground, Pedaling Through Pixelated Landscapes, and Crafting Digital Carnage"
+  Email: "aruu@fhixa.com"
+  Working Projects:
+    - Yra: "Unraveling Mysteries with a Smile"
+    - WIFE: "Where Imagination Flourishes Endlessly"
+    - scrper: "Crafting Tools with Tender Loving Care"
+    - Deceptor: "Redefining Reality with a Twinkle in the Eye"
+
+Fun Fact: "Ariful once tried to teach a squirrel how to hack into acorns. Let's just say it didn't go as planned, but they became good friends nonetheless!"
+
 
 ```
 
