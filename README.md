@@ -14,12 +14,12 @@ Details:
   Hobbies: "Joyful Attacker: Delighting in Breaking the Unbreakable, Frolicking in Nature's Playground, Pedaling Through Pixelated Landscapes, and Crafting Digital Carnage"
   Email: "aruu@fhixa.com"
   Working Projects:
-    - Yra: "Unraveling Mysteries with a Smile"
-    - WIFE: "Where Imagination Flourishes Endlessly"
-    - scrper: "Crafting Tools with Tender Loving Care"
-    - Deceptor: "Redefining Reality with a Twinkle in the Eye"
+    - Yra: 
+    - WIFE: 
+    - scrper: 
+    - Deceptor: 
 
-Fun Fact: "Ariful once tried to teach a squirrel how to hack into acorns. Let's just say it didn't go as planned, but they became good friends nonetheless!"
+Fun Fact: "Robin once tried to teach a squirrel how to hack into acorns. Let's just say it didn't go as planned, but they became good friends nonetheless!"
 
 
 ```
